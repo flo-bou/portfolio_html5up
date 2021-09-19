@@ -29,10 +29,10 @@ echo '<meta name="robots" content="noodp" />';
 echo '<link rel="shortcut icon" href="'.$FILE_FAVICON.'" />';
 echo '<link rel="icon" href="'.$FILE_FAVICON.'" />';
 //** Shortcut Icon APPLE (mettre les images à la racine du site !) **//
-echo '<link rel="apple-touch-icon" sizes="58x58" href="touch-icon-iphone.png" />';
-echo '<link rel="apple-touch-icon" sizes="152x152" href="touch-icon-ipad.png" />';
-echo '<link rel="apple-touch-icon" sizes="180x180" href="touch-icon-iphone-retina.png" />';
-echo '<link rel="apple-touch-icon" sizes="167x167" href="touch-icon-ipad-retina.png" />';
+echo '<link rel="apple-touch-icon" sizes="58x58" href="images/icon/touch-icon-iphone.png" />';
+echo '<link rel="apple-touch-icon" sizes="152x152" href="images/icon/touch-icon-ipad.png" />';
+echo '<link rel="apple-touch-icon" sizes="180x180" href="images/icon/touch-icon-iphone-retina.png" />';
+echo '<link rel="apple-touch-icon" sizes="167x167" href="images/icon/touch-icon-ipad-retina.png" />';
 //** Optimised SEO pour Google **//
 echo '<meta name="description" content="'.$TITLE_description.'" />';  // 200c max
 echo '<meta name="author" content="'.$TITLE_author.'" />';

@@ -1330,7 +1330,7 @@ html {
 
 body {
 	
-	background-image: url("../../images/bg-pexels-reu.jpg"), url("../../images/bg_pink.jpg");
+	background-image: url("../../images/bg/bg-pexels-reu.jpg"), url("../../images/bg/bg_pink.jpg");
 	background-repeat: no-repeat, no-repeat;
 	background-size: cover, 100% 100%;
 	background-attachment: fixed;

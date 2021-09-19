@@ -10,11 +10,11 @@ include $Mod_Techno_txt; // On include le fichier depuis une variable définie d
             <p>Après plusieurs mois de pratique, les <b>HTML & CSS</b> ne semblent presque plus que des formalités. Mais il faut raison garder, le CSS a ses subtilités (et ses évolutions) qui peuvent encore me surprendre ! </p>
         </div>
         <div class="col-4 col-6-medium col-12-small">
-            <img class="image rounded fit"src="images/logo_html_5_and_css_3.jpg" alt="HTML 5 & CSS 3 logo.">
+            <img class="image rounded fit"src="images/icon/logo_html_5_and_css_3.jpg" alt="HTML 5 & CSS 3 logo.">
         </div>
 
         <div class="col-4 col-6-medium col-12-small">
-            <img class="image rounded fit" src="images/logo_js.png" alt="Javascript logo.">
+            <img class="image rounded fit" src="images/icon/logo_js.png" alt="Javascript logo.">
         </div>
         <div class="col-8 col-6-medium col-12-small">
             <p>La puissance et la versatilité de <b>JavaScript</b> ne cesse de m'étonner ! Je ne me lasse pas de lire ses documentations de référence pour pouvoir construire une nouvelle animation pleine d'élégance.</p>
@@ -24,11 +24,11 @@ include $Mod_Techno_txt; // On include le fichier depuis une variable définie d
             <p><b>Boostrap</b> est une librairie que j'aprécie beaucoup. En écrivant de jolies pages en quelques minutes, j'ai déjà l'impression d'avoir 10 ans d'expérience. Vive l'efficacité ! </p>
         </div>
         <div class="col-4 col-6-medium col-12-small">
-            <img class="image rounded fit" src="images/logo_bootstrap-stack-490x412.png" alt="Bootstrap logo.">
+            <img class="image rounded fit" src="images/icon/logo_bootstrap-stack-490x412.png" alt="Bootstrap logo.">
         </div>
 
         <div class="col-4 col-6-medium col-12-small">
-            <img class="image rounded fit" src="images/logo_post-git-logo-1200x630.png" alt="Git logo.">
+            <img class="image rounded fit" src="images/icon/logo_post-git-logo-1200x630.png" alt="Git logo.">
         </div>
         <div class="col-8 col-6-medium col-12-small">
             <p>Grâce à <b>Git</b>, impossible de perdre mon code, un commit, un push et hop ! c'est sauvegardé. Son interface en ligne de commande peut effrayer le novice mais il s'avère vite indispensable. Et puis apprendre un peu de lignes de commande ne peut certainement pas faire de mal. </p>
@@ -38,7 +38,7 @@ include $Mod_Techno_txt; // On include le fichier depuis une variable définie d
             <p><b>PHP</b> et sa myriade de fonctions peut impressionner à première vue. Mais je sens que nous nous entendons déjà bien lui et moi. Sa syntaxe simple me permet de facilement générer des pages personnalisés pour mes visiteurs.</p>
         </div>
         <div class="col-4 col-6-medium col-12-small">
-            <img class="image rounded fit" src="images/logo_PHP_logo.png" alt="PHP logo.">
+            <img class="image rounded fit" src="images/icon/logo_PHP_logo.png" alt="PHP logo.">
         </div>
         <!-- <div class="col-4 col-6-medium col-12-small">
             <a href="#uwamp" class="image fit"><img class="image rounded fit" src="images/uwamp_logo.jpg" alt=""></a>
