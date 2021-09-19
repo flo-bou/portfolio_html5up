@@ -1,0 +1,9 @@
+<p>Hier sind einige Übungen, die ich während meiner Ausbildung zum Webentwickler bei AFPA machen konnte:</p>
+<ul>
+<li> <a href="works/exerciceHTML00/">Eine erste HTML-Übung zur Formatierung eines fiktiven Briefes. </a></li>
+<li> <a href="works/exerciceHTML01/">Eine Übung zur typischen Struktur einer Homepage. </li>
+<li> <a href="works/exerciceHTML02/">Eine Übung zum Implementieren einer reaktionsfähigen Seite entsprechend der Breite des Benutzerbildschirms. </a></li>
+<li> <a href="works/exerciceHTML03/">Eine Testübung zum Erstellen von Tabellen in HTML. </a></li>
+<li> <a href="works/exerciceHTML04/">Eine Übung zu den verschiedenen Arten von Formen sowie zur fortgeschrittenen Positionierung von Elementen. </a></li>
+<li> <a href="works/exerciceVue01/">Eine erste Übung, um die Möglichkeiten des VueJS-Frameworks zu entdecken. </a></li>
+</ul>

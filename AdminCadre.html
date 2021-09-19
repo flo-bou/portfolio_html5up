@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="admincss.css">
+    <title>Administration</title>
+    <script src="./assets/js/jquery.min.js" type="text/javascript"></script>
+    <!-- Vous pouvez changer le chemin avec une variable PHP après transformation de cette page  -->
+    <script type="text/javascript">
+      document.addEventListener("DOMContentLoaded", pageVarPHP);
+      function pageVarPHP() {
+      $("#TV").load("ViewVar.php"); // nom de la page
+      }
+      $(document).ready(function () {
+        $("#page1").click(function () {
+          $("#TV").load("ViewVar.php"); // nom de la page
+        });
+
+        $("#page2").click(function () {
+          $("#TV").load("ViewVarlang.php?lang=fr"); // nom de la page
+        });
+
+        $("#page3").click(function () {
+          $("#TV").load("ViewVarlang.php?lang=en"); // nom de la page
+        });  
+
+        $("#page4").click(function () {
+          $("#TV").load("ViewVarlang.php?lang=de"); // nom de la page
+        }); 
+
+        $("#page5").click(function () {
+          $("#TV").load("ViewVarlang_F.php"); // nom de la page
+        }); 
+
+      });
+    </script>
+  </head>
+
+  <nav>
+      <ul id="Menu">
+        <li><a id="page1" href="#">Variables</a></li>
+        <li><a id="page2" href="#">Langue française</a></li>
+        <li><a id="page3" href="#">Langue anglaise</a></li>
+        <li><a id="page4" href="#">Langue allemande</a></li>
+        <li><a id="page5" href="#">Variable (présentation automatique)</a></li>
+      </ul>
+  </nav>
+        <!-- 
+        <a id="page1" href="#">Variables</a>
+        <a id="page2" href="#">Langue Fr</a>
+        <a id="page3" href="#">Langue UK</a>
+       -->
+  <body>     
+    <!-- Div qui contient les autres div-->
+    <div id="Master">
+      <!-- Div qui contient le menu de navigation-->
+      
+      <!-- Div qui contient les pages visualisées-->
+      <div id="TV" style="clear: both"></div>
+    </div>
+  </body>
+</html>

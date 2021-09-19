@@ -1,0 +1,9 @@
+<p>Voici quelques exercices que j'ai pu réaliser durant ma fomation de développeur web à l'AFPA :</p>
+<ul>
+    <li> <a href="works/exerciceHTML00/"> Un premier exercice html portant sur la mise en forme d'une lettre fictive. </a></li>
+    <li> <a href="works/exerciceHTML01/">Un exercice portant sur la structure-type d'une page d'accueil. </a></li>
+    <li> <a href="works/exerciceHTML02/">Un exercice permettant de mettre en oeuvre une page responsive selon la largeur de l'écran de l'utilisateur. </a></li>
+    <li> <a href="works/exerciceHTML03/">Un exercice de test sur la création de tableaux en html. </a></li>
+    <li> <a href="works/exerciceHTML04/">Un exercice sur les différents types de formulaires ainsi que le positionnement avancé des éléments. </a></li>
+    <li> <a href="works/exerciceVue01/">Un premier exercice permettant de découvrir les possibilités du framework VueJS. </a></li>
+</ul>

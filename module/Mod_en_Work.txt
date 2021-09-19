@@ -1,0 +1,9 @@
+<p>Here are some exercises that I was able to perform during my web developer training at AFPA:</p>
+<ul>
+<li> <a href="works/exerciceHTML00/">A first html exercise on the formatting of a fictive letter. </a></li>
+<li> <a href="works/exerciceHTML01/">An exercise focused on the typical structure of a home page. </li>
+<li> <a href="works/exerciceHTML02/">An exercise to implement a responsive page depending of the user screen's widht. </a></li>
+<li> <a href="works/exerciceHTML03/">A test exercise on the creation of tables in html. </a></li>
+<li> <a href="works/exerciceHTML04/">An exercise on the different types of forms as well as the advanced positioning of elements. </a></li>
+<li> <a href="works/exerciceVue01/">A first exercise to discover the possibilities of the VueJS framework. </a></li>
+</ul>
